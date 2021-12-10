@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ddi-test/Node.js%20example/_apis/build/status/darkodimkovski.js-e2e-express-server?branchName=main)](https://dev.azure.com/ddi-test/Node.js%20example/_build/latest?definitionId=10&branchName=main)
 ---
 page_type: sample
 languages:
